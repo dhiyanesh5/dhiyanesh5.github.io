@@ -1,7 +1,3 @@
-Got it! Here's a revised README file that includes details about your complete HTML, CSS, and JavaScript setup for the weather forecast project:
-
----
-
 # Weather Forecast App
 
 This project displays weather forecast information using the OpenWeatherMap API based on user input (city name).
